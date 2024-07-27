@@ -1,2 +1,2 @@
 # CustomerBot
-[챗봇] OpenAI api를 활용하여 실시간 고객센터
+[챗봇] OpenAI API를 활용한 카테고리 분류 서비스

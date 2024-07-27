@@ -1,3 +1,14 @@
-.venv
-__pycache__/
-*.pyc
+# Ignore everything
+*
+
+# Do not ignore .gitignore file
+!.gitignore
+
+# Do not ignore the Recommend_Post directory
+!Recommend_Post/
+
+# Do not ignore the .env.example file
+!.env.example
+
+# Ignore the .env file
+.env
