@@ -6,6 +6,7 @@
 
 # Do not ignore the Recommend_Post directory
 !Recommend_Post/
+!Recommend_Post/**
 
 # Do not ignore the .env.example file
 !.env.example
